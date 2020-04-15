@@ -1,0 +1,5 @@
+com/amazon/test/steps/ProductNavigationPageSteps.class
+com/amazon/test/steps/HomePageSteps.class
+com/amazon/test/runner/DeviceTestRunner.class
+com/amazon/test/steps/OrderPlacementSteps.class
+com/amazon/test/steps/LoginPageSteps.class
