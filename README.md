@@ -20,6 +20,10 @@ Update the properties file with values before executing the automation scripts. 
 
 
 ## Running the tests
+Before executing the tests:
+Please do update the below in the 'amazon.properties'file:
+user.emailaddress=*****
+user.password=*****
 
 The Base class to execute the entire automation suite is: DeviceTestRunner.java. Once, the maven build is success then we need to go DeviceTestRunner class and select run as Junit Tests.
 
