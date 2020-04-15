@@ -21,7 +21,7 @@ Update the properties file with values before executing the automation scripts. 
 
 ## Running the tests
 Before executing the tests:
-Please do update the below in the 'amazon.properties'file:
+Please do update the below in the 'amazon.properties' file:
 
 user.emailaddress=*****
 
