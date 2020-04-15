@@ -16,7 +16,7 @@ Update the properties file with values before executing the automation scripts. 
  * android.realdevice.device_name = samsung
  * android.realdevice.version = 6.0.1
 	
-3.Amazon app needs to be installed from PlayStore
+3.Amazon app needs to be installed through apk file or PlayStore
 
 
 ## Running the tests
