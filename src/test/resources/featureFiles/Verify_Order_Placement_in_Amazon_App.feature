@@ -1,5 +1,5 @@
 Feature: Access Amazon APP and Login  
-	Veirfy Login is success in amazon APP
+	Verify Login is success in amazon APP
 	
 	@regression
 	Scenario Outline: Access and Login to Amazon App
